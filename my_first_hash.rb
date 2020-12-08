@@ -1,6 +1,7 @@
 def my_hash
  rent = {“Monthly Rent” => 1200}
 end 
+end
 
 
 def shipping_manifest

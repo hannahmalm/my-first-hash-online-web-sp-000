@@ -1,5 +1,5 @@
 def my_hash
- rent = {“Monthly Rent” => 1200}
+ rent = {“monthly rent” => 1200}
 end 
 
 

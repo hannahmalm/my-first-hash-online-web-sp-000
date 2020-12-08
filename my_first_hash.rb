@@ -1,7 +1,6 @@
 def my_hash
-  	Dictionary = {“apple” => “a delicious fruit”, “this readme” => “wonderful and informative piece of reading”, “Moby Dick” => “a novel by a good friend” }
-end
-end
+ my_rent = {“Monthly Rent” => 1200}
+end 
 
 
 def shipping_manifest
